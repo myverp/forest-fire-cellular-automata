@@ -1,1 +1,2 @@
 # forest-fire-cellular-automata
+This project simulates the spread of a forest fire using a cellular automaton model. It visualizes how a fire propagates across a grid of trees, with each cell representing the state of a tree (unburned, burning, or burned). The simulation uses probabilistic rules to determine if a neighboring tree catches fire, based on the P_burn parameter (the probability of a tree catching fire) and T_burn (the time a tree stays burning).
